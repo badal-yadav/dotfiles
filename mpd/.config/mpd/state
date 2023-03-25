@@ -1,0 +1,28 @@
+sw_volume: 86
+audio_device_state:1:Pipewire Sound Server
+audio_device_state:1:Visualizer feed
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:220707yt/Alan Walker - Faded.opus
+1:220707yt/Rohan Rathore - Emptiness ( Originial ).opus
+2:YT Likes/Tumse Mohabbat Hai - JalRaj _ Safar _ Latest hindi song 2020 original.opus
+3:YT Likes/「Nightcore」→ House With No Mirrors - (Lyrics).opus
+4:YT Likes/Aarambh Hai Prachand (warrior version).opus
+5:YT Likes/Alan Walker - The Drum (Official Music Video).opus
+6:YT Likes/An Indian Tribute to Imagine Dragons’ Believer _ by Tushar Lall.opus
+7:YT Likes/BAARISHEIN (Studio) Anuv Jain.opus
+8:YT Likes/BAD LIAR by Imagine Dragons _ cover by Jada Facer.opus
+9:YT Likes/Bury A Friend (cover) By Billie Eilish.opus
+10:YT Likes/Camila VS Dua #shorts.opus
+11:Alec Benjamin/Alec Benjamin - Annabelle's Homework [Official Lyric Video].m4a
+12:Alec Benjamin/Alec Benjamin - Must Have Been The Wind [Official Music Video].opus
+13:Alec Benjamin/Alec Benjamin - Death of a Hero [Official Lyric Video].opus
+playlist_end
